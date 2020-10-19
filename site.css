@@ -1,0 +1,12 @@
+html
+{
+background-color: #C0C0C0;
+color: #2F4F4F;
+}
+
+.conteneur
+{
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: space-between;
+}
